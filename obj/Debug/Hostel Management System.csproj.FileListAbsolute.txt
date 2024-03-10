@@ -1,0 +1,29 @@
+C:\Users\Mnasf\Desktop\Project Fin Formation\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe.config
+C:\Users\Mnasf\Desktop\Project Fin Formation\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe
+C:\Users\Mnasf\Desktop\Project Fin Formation\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.pdb
+C:\Users\Mnasf\Desktop\Project Fin Formation\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Form1.resources
+C:\Users\Mnasf\Desktop\Project Fin Formation\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Properties.Resources.resources
+C:\Users\Mnasf\Desktop\Project Fin Formation\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csproj.GenerateResource.cache
+C:\Users\Mnasf\Desktop\Project Fin Formation\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csproj.CoreCompileInputs.cache
+C:\Users\Mnasf\Desktop\Project Fin Formation\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.exe
+C:\Users\Mnasf\Desktop\Project Fin Formation\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.pdb
+C:\Users\Mnasf\Desktop\Project Fin Formation\Hostel Management System\Hostel Management System\bin\Debug\Guna.UI.dll
+C:\Users\Mnasf\Desktop\Project Fin Formation\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csproj.CopyComplete
+C:\Users\Mnasf\Desktop\Project Fin Formation\Hostel Management System\Hostel Management System\bin\Debug\Guna.UI2.dll
+C:\Users\Mnasf\Desktop\Project Fin Formation\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.MainForm.resources
+C:\Users\Mnasf\Desktop\Project Fin Formation\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Clients.resources
+C:\Users\Mnasf\Desktop\Project Fin Formation\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Room.resources
+C:\Users\Mnasf\Desktop\Project Fin Formation\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Employees.resources
+C:\Users\Mnasf\Desktop\Project Fin Formation\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Reservation.resources
+C:\Users\Mnasf\Desktop\Project Fin Formation\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.AjoutterClient.resources
+C:\Users\Mnasf\Desktop\Project Fin Formation\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.MoudifierClient.resources
+C:\Users\Mnasf\Desktop\Project Fin Formation\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.SupprimerClient.resources
+C:\Users\Mnasf\Desktop\Project Fin Formation\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Paiment.resources
+C:\Users\Mnasf\Desktop\Project Fin Formation\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.Loading_page.resources
+C:\Users\Mnasf\Desktop\Project Fin Formation\Hostel Management System\Hostel Management System\obj\Debug\Hostel_Management_System.SupprimerReservation.resources
+C:\Users\Mnasf\Desktop\Project Fin Formation\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.exe.manifest
+C:\Users\Mnasf\Desktop\Project Fin Formation\Hostel Management System\Hostel Management System\bin\Debug\Hostel Management System.application
+C:\Users\Mnasf\Desktop\Project Fin Formation\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.TrustInfo.xml
+C:\Users\Mnasf\Desktop\Project Fin Formation\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.exe.manifest
+C:\Users\Mnasf\Desktop\Project Fin Formation\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.application
+C:\Users\Mnasf\Desktop\Project Fin Formation\Hostel Management System\Hostel Management System\obj\Debug\Hostel Management System.csprojAssemblyReference.cache
